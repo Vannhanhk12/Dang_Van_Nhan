@@ -5,8 +5,8 @@ To run this code, you need to ensure that you have Node.js, npm, and PostgreSQL 
 1. Clone the Repository:
 
 ```
-git clone https://github.com/Vannhanhk12/code_challenge_backend.git
-cd problem_5/code-challege-api
+git clone https://github.com/Vannhanhk12/Dang_Van_Nhan.git
+cd problem_5/code-challenge-api
 ```
 
 2. Install Dependency
